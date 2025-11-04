@@ -21,9 +21,8 @@ This project aims to:
 
 01. [**Data Collection**](project/01_collection.md) - gathering player and cheater stats via open APIs
 02. [**Data Cleaning**](project/02_cleaning.md) - merging datasets, handling missing values, and preparing features
+03. [**Exploratory Data Analysis & Feature Engineering**](project/03_EDA.md) - statistical summaries and visual pattern discovery & designing behavioral indicators
 ## 🚀 Future Work
 
-
-03. **Exploratory Data Analysis & Feature Engineering** - statistical summaries and visual pattern discovery & designing behavioral indicators
 04. **Classification Approaches** - testing various methods for detecting cheaters
 05. **Results** - summarizing findings and key patterns
