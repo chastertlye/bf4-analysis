@@ -30,7 +30,7 @@ For each file, rows with duplicate `id` values are counted and removed using `dr
    - The notebook includes example reasonable limits (e.g., `rank` 0–140, `accuracy` 0–100%).
 
 5. Save
-   - The cleaned DataFrame is saved as `data/clean_players.csv`.
+   - The cleaned DataFrame is saved as `data/clean.csv`.
 
 6. Visualize cleaning results
    - A pie chart is created showing the distribution across categories: clean dataset, removed duplicates, anomalies, and overlaps (overlapping IDs).
